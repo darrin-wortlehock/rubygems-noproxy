@@ -1,3 +1,5 @@
+require 'rubygems/remote_fetcher'
+
 class Gem::RemoteFetcher
 
   def no_proxy_patterns
